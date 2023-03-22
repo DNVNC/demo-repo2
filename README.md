@@ -6,3 +6,7 @@ some text
 ## New Feature
 
 1. Added some extra stuff!
+
+## More Conflciting Stuff
+
+1. Oh no!
